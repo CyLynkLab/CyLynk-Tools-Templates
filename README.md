@@ -1,2 +1,2 @@
 # CyLynk-Tools-Templates
-This repository contains free tools and templates available to be downloaded. Some resources may not have been developed by CyLynk which case, we do not claim ownership of such tools and are hosting it for the good of the cybersecurity community am
+This repository contains free cybersecurity tools and templates available to be downloaded. Some resources may not have been developed by CyLynk in which case, we do not claim ownership of such tools and are hosting it for the good of the cybersecurity community. All rights and trademarks remain with original resourse Developer. CyLynk Pty Ltd do not make claims of ownership and will only use the trademarks and rights as is neccessary under Global Open-Source Software and Resource License.
